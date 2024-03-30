@@ -1,0 +1,15 @@
+.NavB {
+    background-color:lightblue;
+    padding: 10px;
+  }
+  
+  .nvand{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .nvand:hover {
+    color:blue;
+  }

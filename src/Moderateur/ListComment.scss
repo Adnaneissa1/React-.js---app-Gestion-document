@@ -1,0 +1,56 @@
+
+.blocked-comment {
+    background-color:grey; 
+  }
+  
+
+.text-center {
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+  }
+  
+  button {
+    padding: 6px 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    &:hover {
+      background-color: #0056b3;
+    }
+  }
+
+
+  .nav {
+  background-color:lightblue;
+  padding: 10px;
+}
+
+.navbar-brande {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.navbar-brande:hover {
+  color: #007bff;
+}
+
+  
